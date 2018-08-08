@@ -11,7 +11,7 @@ setup(
     license='MIT',
     description='Python client for Consul Service Discovery API',
     long_description=open('README.rst').read(),
-    py_modules=['consul'],
+    py_modules=['consulsd'],
     install_requires=['requests'],
     classifiers=[
         'License :: OSI Approved :: MIT License',
