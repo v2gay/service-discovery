@@ -9,8 +9,8 @@ Examples
 --------
 Usage examples::
 
-    import consul
-    service = consul.Client()
+    import consulsd
+    service = consulsd.Client()
     service.register(id='flexlm1', name='flexlm',
                 address='10.112.0.211', port=28518,
                 tags=('flexlm1', light', 'v1'),
