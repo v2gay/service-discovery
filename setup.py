@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(
-    name='consul-service-discovery',
+    name='consul-sd',
     version='0.1.2',
     author='Javier Cacheiro',
     author_email='javier.cacheiro@gmail.com',
